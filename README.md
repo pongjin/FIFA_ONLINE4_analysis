@@ -31,7 +31,8 @@
 >3. 3점 이하의 득실 차 경기
 
 **분석 방법** 
-
+#### EDA-PCA-Clustering-ANOVA
+#### 내용
 ![image](https://velog.velcdn.com/images/pong_jin/post/9cc8c348-dad4-401e-9e45-8c8c4bec2ba1/image.png)
   
 2023년 전력분석실 내 지속적으로 업데이트 된 플레이 스타일 정의 문서를 크롤링, 이후 텍스트 마이닝을 통해 워드 클라우드로 주요 요소 추출.  

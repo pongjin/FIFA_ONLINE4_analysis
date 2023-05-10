@@ -3,3 +3,4 @@ __pycache__/
 .git
 /data
 data/
+GAME_API_INFO.ipynb
